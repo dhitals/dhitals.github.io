@@ -2,7 +2,7 @@
 <html lang="en"
 >
 <head>
-    <title>Authors - One New Universe</title>
+    <title>Tags - One New Universe</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
@@ -22,7 +22,7 @@
 
 
     <!-- Bootstrap -->
-        <link rel="stylesheet" href="./theme/css/bootstrap.darkly.min.css" type="text/css"/>
+        <link rel="stylesheet" href="./theme/css/bootstrap.Darkly.min.css" type="text/css"/>
     <link href="./theme/css/font-awesome.min.css" rel="stylesheet">
 
     <link href="./theme/css/pygments/native.css" rel="stylesheet">
@@ -64,8 +64,11 @@ One New Universe            </a>
     <div class="row">
         <div class="col-sm-9">
 
-    <h1>Authors on One New Universe</h1>
-        <li><a href="./author/saurav.html">saurav</a> (1)</li>
+    <section id="tags">
+        <h1>Tags for One New Universe</h1>
+        <div class="panel-group" id="accordion">        </div>
+
+    </section>
         </div>
         <div class="col-sm-3" id="sidebar">
             <aside>
